@@ -1,0 +1,24 @@
+// custom.scss
+
+$white: #ffffff;
+
+$theme-colors: (
+    "light":      #f2dfff,
+    "dark":       #342000,
+    "primary":    #5a0199,
+    "secondary":  #ccc3d0,
+    "info":       #8b8bff,
+    "accent1":    #253966,
+    "accent2":    #3360f7,
+    "accent3":    #b875c0,
+    "success":    #00a463,
+    "warning":    #dfcc00,
+    "danger":     #ed2700,
+);
+
+// $border-radius: 0.1rem;
+
+// Importing all of bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+// @import "../node_modules/bootstrap/scss/mixins";
